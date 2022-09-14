@@ -1,9 +1,9 @@
-- # Topic
+- # Introduction
 - 👋 Hi, I’m @hkohli4
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ECE Software engineering
+- 🌱 I’m currently learning Web Technologies
+- 💞️ I’m looking to collaborate on GitHub
+- 📫 How to reach me hkohli98@gmail.com
 
 <!---
 hkohli4/hkohli4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
